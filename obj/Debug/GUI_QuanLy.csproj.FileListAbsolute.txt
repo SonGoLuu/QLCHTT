@@ -1,0 +1,204 @@
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\QLCHTT.exe.config
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\QLCHTT.exe
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\QLCHTT.pdb
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.exe
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.pdb
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.Form1.resources
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.exe.licenses
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\RJCodeAdance.RJControls.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormMainUI.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLNhanVien.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLTaiKhoan.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormSuataikhoan.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormTaomoitaikhoan.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormChiTietHoaDon.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormLapHoaDon.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLHoaDon.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLKhachHang.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLLoai.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLSanPham.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormVongQuayMayMan.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormXoataikhoan.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormChiTietPhieuNhap.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLNhaCungCap.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormPhieuNhap.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormQLPhieuNhap.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormThongKe.resources
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\DTO_QuanLy.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\BUS_QuanLy.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\DAL_QuanLy.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\EnvDTE.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormDoanhThuTongThe.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormDoanhThuTungSanPham.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\RdlCompile.cache
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormInHoaDon.resources
+C:\Users\Admin\source\repos\QLCHTT\obj\Debug\QLCHTT.FormInPhieuNhap.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\QLCHTT.exe.config
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\QLCHTT.exe
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\QLCHTT.pdb
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\BUS_QuanLy.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\DTO_QuanLy.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\FontAwesome.Sharp.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\RJCodeAdance.RJControls.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\RJCodeAdvance.RJControls.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\DAL_QuanLy.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\EnvDTE.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\stdole.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\BUS_QuanLy.pdb
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\DTO_QuanLy.pdb
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\DAL_QuanLy.pdb
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\GUI_QuanLy.csproj.SuggestedBindingRedirects.cache
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.Form1.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormChiTietHoaDon.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormChiTietPhieuNhap.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormDoanhThuTongThe.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormDoanhThuTungSanPham.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormInHoaDon.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormInPhieuNhap.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormLapHoaDon.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormMainUI.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLHoaDon.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLKhachHang.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLLoai.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLNhaCungCap.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLNhanVien.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormPhieuNhap.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLPhieuNhap.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLSanPham.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormQLTaiKhoan.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormSuataikhoan.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormTaomoitaikhoan.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormThongKe.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormVongQuayMayMan.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.FormXoataikhoan.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.Properties.Resources.resources
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.exe.licenses
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.exe
+D:\Heo\Đồ án TKCSDL\QLCHTT\obj\Debug\QLCHTT.pdb
